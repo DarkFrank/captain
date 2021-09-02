@@ -174,7 +174,7 @@ In addition to normal helm chart repo (http server), captain also supported foll
 
 ChartRepo support following type:
 * `Chart`: helm chart repo
-* `Git/SVN`: refer to [Git/SVN Support](./vcs-repo.md) for more information.
+* `Git/SVN`: refer to [Git/SVN Support](vcs-repo.md) for more information.
 * `Local`: use the chartrepo shipped with captain. In this case, `.spec.url` should be "", and captain will generate the repo url for you.
 
 ### Basic Auth

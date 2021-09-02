@@ -9,7 +9,7 @@
 Captain is a Helm 3 Controller
 
 
-![](./docs/imgs/captain-arc-2.png)
+![](docs/imgs/captain-arc-2.png)
 
 
 ## About Helm3 

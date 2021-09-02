@@ -38,4 +38,4 @@ Just edit captain's deployment to update image tag
 ## Upgrade from ChartRepo v1alpha1 -> v1beta1
 If you already have v1alpha1 ChartRepo exist, captain will handler it correctly. But, if you want to use the latest 
 v1beta1 version, you can manually edit the ChartRepo resource to add type to it. For all of the v1alpha1 ChartRepo, 
-it should be `Chart`. For more details and examples, please refer to [Git/SVN as ChartRepo](./vcs-repo.md)
+it should be `Chart`. For more details and examples, please refer to [Git/SVN as ChartRepo](vcs-repo.md)
